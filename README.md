@@ -1,18 +1,18 @@
-"________________________________________________________________________________"
+________________________________________________________________________________
 
-"                            TECNOLOGICO DE COSTA RICA                           "
+                            TECNOLOGICO DE COSTA RICA                           
 
-"                         ARQUITECTURA DE COMPUTADORAS I                         "
+                         ARQUITECTURA DE COMPUTADORAS I                         
 
-"                               ALVARO SOSSA ROJAS                               "
+                               ALVARO SOSSA ROJAS                               
 
-"                           GENESIS SOFIA MENDEZ CASTRO                          "
+                           GENESIS SOFIA MENDEZ CASTRO                          
 
-"                                    ARKANOID                                    "
+                                    ARKANOID                                    
 
-"                     PRESIONE CUALQUIER TECLA PARA INICIAR                      "
+                     PRESIONE CUALQUIER TECLA PARA INICIAR                      
 
-"________________________________________________________________________________"
+________________________________________________________________________________
 
 
 
