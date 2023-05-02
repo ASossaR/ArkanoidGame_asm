@@ -16,7 +16,7 @@
 
 
 
-This is a computer game elaborated for Alvaro Sossa and Genesis mendez for Arquitectura de Comutadoras's class.
+This is a computer game elaborated by Alvaro Sossa and Genesis mendez for Arquitectura de Comutadoras's class.
 
 Language: Assembler
 Compiler: Nasm
